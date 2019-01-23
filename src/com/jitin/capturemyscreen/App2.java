@@ -16,7 +16,7 @@ public class App2 {
 	public static void main(String[] args) throws Exception {
 		int i = 1;
 		/*
-		 * This code will gonna 30 screenshots.
+		 * This code will gonna take 30 screenshots.
 		 */
 		while (i <= 30) {
 			Robot robot = new Robot();
